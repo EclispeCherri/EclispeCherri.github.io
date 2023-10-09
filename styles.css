@@ -12,6 +12,10 @@
     margin-right: auto;
     background-color: aqua;
     width: 1000px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
 }
 
 #headerofPage {
