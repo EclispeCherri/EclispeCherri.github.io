@@ -8,4 +8,16 @@
 
 #imgShowcase {
     align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+}
+
+#headerofPage {
+    font-family: monospace;
+    text-align: center;
+}
+
+.majorDiv {
+    font-family: monospace;
 }
