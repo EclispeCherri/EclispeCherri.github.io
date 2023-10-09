@@ -26,3 +26,30 @@
 .majorDiv {
     font-family: monospace;
 }
+
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Cat site Styles */
+.backgroundImg {
+    position: relative;
+    width: 350px;
+    height: 350px;
+}
+
+.trueCenterTxt {
+    position:relative;
+    top: 50%;
+    left: 50%;
+    translate: -50%, 50%;
+    color: blue;
+    background-color: aliceblue;
+}
+
+#toRealCats {
+    width: 350px;
+    height: 350px;
+}
