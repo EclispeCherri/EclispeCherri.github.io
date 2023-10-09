@@ -1,0 +1,11 @@
+.playStation {
+    vertical-align: middle;
+}
+
+.flex-container {
+    display: flex;
+}
+
+#imgShowcase {
+    align-content: center;
+}
