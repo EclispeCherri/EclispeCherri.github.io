@@ -1,0 +1,12 @@
+.baseButtonStyle {
+    width: 300px;
+    height: 300px;
+    border: 2xp;
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
+}
+
+.abtCherButton {
+    background-color: red;
+}
