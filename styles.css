@@ -5,8 +5,10 @@
     border-radius: 15px;
     border-color: black;
     border-style: solid;
+    font-family: monospace;
 }
 
 .abtCherButton {
     background-color: red;
+    font-size: 30px;
 }
