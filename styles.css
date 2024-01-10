@@ -1,14 +1,15 @@
-.baseButtonStyle {
-    width: 300px;
-    height: 300px;
-    border: 2xp;
-    border-radius: 15px;
-    border-color: black;
-    border-style: solid;
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
+.divButton {
+    width: fit-content;
+    height: fit-content;
+    font-size: 30px;
     font-family: monospace;
 }
 
-.abtCherButton {
-    background-color: red;
-    font-size: 30px;
+.divButton.Sakuras {
+    background-color: hotpink;
 }
