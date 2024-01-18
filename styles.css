@@ -1,15 +1,8 @@
-.icon {
-    width: 30px;
-    height: 30px;
+.titleDiv {
+    background-image: url(Images/mays.jpg);
 }
 
-.divButton {
-    width: fit-content;
-    height: fit-content;
-    font-size: 30px;
-    font-family: monospace;
-}
-
-.divButton.Sakuras {
-    background-color: hotpink;
+h1 {
+    background-color: rgba(0, 0, 0, 25%);
+    color:
 }
