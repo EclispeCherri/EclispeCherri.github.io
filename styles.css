@@ -2,6 +2,15 @@
     background-image: url(Images/mays.jpg);
 }
 
+.navButton {
+    height: 50px;
+    width: 200px;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    background-color: #8c8cd9;
+}
+
 nav {
-    background-color: #99ccff;
+    background-color: #b3b3e6;
+    height: 50px;
 }
